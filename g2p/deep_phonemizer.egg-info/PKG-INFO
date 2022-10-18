@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: deep-phonemizer
+Version: 0.0.17
+Summary: Grapheme to phoneme conversion with deep learning.
+Home-page: UNKNOWN
+Author: Christian Schäfer
+Author-email: c.schaefer.home@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/x-rst
+Provides-Extra: tests
+Provides-Extra: docs
+Provides-Extra: dev
+License-File: LICENSE
+
+ DeepPhonemizer is a multilingual grapheme-to-phoneme modeling library that leverages recent deep learning 
+technology and is optimized for usage in production systems such as TTS. In particular, the library should
+be accurate, fast, easy to use. Moreover, you can train a custom model on your own dataset in a few lines of code.
+DeepPhonemizer is compatible with Python 3.6+ and is distributed under the MIT license.
+
+Read the documentation at: https://as-ideas.github.io/DeepPhonemizer/
+
+
+
